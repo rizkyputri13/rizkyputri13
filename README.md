@@ -1,7 +1,7 @@
 ### Hi there 👋
 * 👂 My name is Rizky Putri
 * 👩 Pronouns : She/Her
-* 🌱 I’m currently learning Front-end and Back-end Development (NestJS and NextJS using React)
+* 🌱 I’m currently learning Front-end 
 * 📫 How to reach me : 
  IG = @rzkputri__
 
