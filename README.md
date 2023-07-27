@@ -1,7 +1,7 @@
 ### Hi there 👋
 * 👂 My name is Rizky Putri
 * 👩 Pronouns : She/Her
-* 🌱 I’m currently learning Front-end 
+* 🌱 I’m currently learning Front-end and Back-end
 * 📫 How to reach me : 
  IG = @rzkputri__
 
