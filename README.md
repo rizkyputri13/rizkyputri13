@@ -1,5 +1,5 @@
 ### Hi there 👋
-* 👂 My name is Rizky Putri
+* 👂 My name is Putri
 * 👩 Pronouns: She/Her
 * 🌱 I’m currently learning Front-end and Back-end
 
